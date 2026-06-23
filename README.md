@@ -1,4 +1,3 @@
-student_management_system.py
 import csv
 import os
 
